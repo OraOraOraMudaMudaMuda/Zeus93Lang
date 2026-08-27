@@ -4,13 +4,7 @@ ZeusLang은 밈 문구를 키워드로 사용하는 간단한 인터프리터 �
 
 ## 인터프리터 실행 방법
 
-Python 3가 설치된 상태에서 PowerShell 또는 명령 프롬프트를 열고 프로젝트 폴더로 이동한다.
-
-```powershell
-cd C:\Users\Admin\Desktop\ChanSub\zeusLang
-```
-
-그 다음 인터프리터 파일과 실행할 `.zeus` 파일을 지정한다.
+인터프리터 파일과 실행할 `.zeus` 파일을 지정한다.
 
 ```powershell
 python interpreter.py 프로그램.zeus
